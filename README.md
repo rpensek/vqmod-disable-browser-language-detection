@@ -1,6 +1,6 @@
 # vQmod - Disable browser language detection for OpenCart
 
-Take back control of the set default language in OpenCart. This script disables the functionality of overriding store language based on visitors browser / OS language.
+Take back control of the default language in OpenCart. This script disables the functionality of overriding store language based on visitors browser / OS language.
 
 ## Requirements
 
